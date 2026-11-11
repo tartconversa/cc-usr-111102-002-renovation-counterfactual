@@ -1,0 +1,5 @@
+entity,role,concurrent_renovation
+treated,treated,0
+donor-a,donor,0
+donor-b,donor,0
+donor-excluded,donor,1

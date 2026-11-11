@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/analysis.json",
+    "sha256": "e13c7975613f998655d33403206f4c379f3bcf72c8414ab5f060a1eabe3e9c8b",
+    "size_bytes": 260
+  },
+  {
+    "path": "fixtures/eligibility.csv",
+    "sha256": "96d7266c3c5f51aeb1f53dad89bf634872f83ab9914f4a95434722e433a4da97",
+    "size_bytes": 107
+  },
+  {
+    "path": "fixtures/panel.csv",
+    "sha256": "d9805f7aafec7229b94679e790a649d09cef6118ad502df2be182af75333cbd9",
+    "size_bytes": 886
+  }
+]

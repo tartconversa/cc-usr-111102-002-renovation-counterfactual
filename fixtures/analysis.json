@@ -1,0 +1,14 @@
+{
+  "treated": "treated",
+  "intervention_week": "2026-09-14",
+  "preperiod_end": "2026-09-07",
+  "rolling_validation_weeks": 2,
+  "regularization_grid": [
+    0,
+    0.1,
+    1
+  ],
+  "max_short_gap": 1,
+  "placebo_fit_error_multiplier": 5,
+  "seed": 10202
+}
